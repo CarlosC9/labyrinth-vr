@@ -185,7 +185,8 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
     <Compile Include="Assets\MyData\Scrpts\blockMap.cs" />
-    <Compile Include="Assets\MyData\Scrpts\Finish.cs" />
+    <Compile Include="Assets\MyData\Scrpts\changeSceneWhenTrigger.cs" />
+    <Compile Include="Assets\MyData\Scrpts\destroyCubeWhenLookDown.cs" />
     <Compile Include="Assets\MyData\Scrpts\PlayerWalk.cs" />
     <Compile Include="Assets\MyData\Scrpts\startGame.cs" />
     <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />

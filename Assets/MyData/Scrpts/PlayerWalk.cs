@@ -6,7 +6,7 @@ public class PlayerWalk : MonoBehaviour
 {
     public float playerSpeed;
     private Vector3 newPosition;
-    private bool canWalk = false;
+    public bool canWalk = false;
     private Rigidbody rg;
 
     // Start is called before the first frame update
